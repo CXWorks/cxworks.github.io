@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Xiang Cheng's Personal Website"
+title                    : "Xiang Cheng"
 title_separator          : "-"
 name                     : &name "Xiang Cheng"
 description              : &description "Xiang's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -24,7 +24,7 @@ repository               : "cxworks/cxworks.github.io"
 author:
   # Biographic information
   avatar           : "profile.jpeg"
-  name             : "Xiang"
+  name             : "Xiang Cheng"
   pronouns         : "he/him"  
 
   # Academic websites
