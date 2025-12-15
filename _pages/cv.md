@@ -11,35 +11,30 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Computer Science, Georgia Insititute of Technology, 2025
+* M.S. in Computer Science, Georgia Insititute of Technology, 2020
+* B.Eng. in Software Engineering, Nanjing University, 2018
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* August 2025 - Now: Research Scientist
+  * Meta
+  * Ads Ranking: LLM for Content Understanding
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* May 2024 - August 2024: Software Engineering Intern
+  * Meta
+  * Signal growth and Attribution
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* May 2022 - August 2022: Research Intern
+  * Intel Labs
+  * Data Center Security
+
+* May 2019 - August 2019: Software Engineering Intern
+  * Amazon Lab 126
+  * Amazon Astro
+
+* May 2017 - July 2017: Application Analyst Intern
+  * Morgan Stanley
 
 Publications
 ======
@@ -47,18 +42,3 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
