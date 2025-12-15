@@ -26,7 +26,7 @@ Work experience
 ======
 * August 2025 - Now: Research Scientist
   * Meta
-  * Ads Ranking: LLM for Content Understanding
+  * Ads Ranking: LLM for Content Understanding and graph learning
 
 * May 2024 - August 2024: Software Engineering Intern
   * Meta
