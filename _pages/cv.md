@@ -8,7 +8,7 @@ redirect_from:
   - /cv
 ---
 
-This is the front page of Xiang Cheng (程翔)'s webpage. I am a Research Scientist at Meta, working on ads ranking team, especially for LLM with content understanding and graph learning.
+This is the front page of Xiang Cheng's webpage. I am a Research Scientist at Meta, working on ads ranking team, especially for LLM with content understanding and graph learning.
 
 I recently completed my Ph.D. in Computer Science from the Georgia Institute of Technology, where my doctoral research, conducted in the [SSLab](https://gts3.org/), focused on Rust, program analsis and LLM for code under the guidance of Dr. [Taesoo Kim](https://taesoo.kim/) since 2021. Before that, I am happy to work with Dr. [David Devesery](https://scholar.google.com/citations?user=HaJWLb0AAAAJ).
 
