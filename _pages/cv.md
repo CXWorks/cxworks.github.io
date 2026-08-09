@@ -42,13 +42,7 @@ Work experience
 
 * May 2017 - July 2017: Application Analyst Intern
   * Morgan Stanley
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
+ 
 Services
 ======
 * Program Committee
@@ -57,6 +51,12 @@ Services
 
 * External Reviewer
   * CCS: 2023
-  * Usenix Security: 2022, 2023
+  * Security: 2022, 2023
   * SOSP: 2022
+
+Publications
+======
+  <ul>{% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
   
